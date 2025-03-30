@@ -1,7 +1,7 @@
-# Hey, it's Sushant. I exist on these platforms:
+Hey, it's Sushant. Get in touch:
 
-[![Twitter](https://i.imgur.com/wWzX9uB.png) X (Twitter)](https://x.com/username)
+[![Twitter](https://x.com/favicon.ico) X (Twitter)](https://x.com/sushantc_)
 
-[![LinkedIn](https://i.imgur.com/rgmXfPm.png) LinkedIn](https://linkedin.com/in/username)
+[![LinkedIn](https://www.linkedin.com/favicon.ico) LinkedIn](https://www.linkedin.com/in/sushant1602/)
 
-[![GitHub](https://i.imgur.com/9I6NRUm.png) GitHub](https://github.com/username) 
+[![GitHub](https://github.com/favicon.ico) GitHub](https://github.com/csush)
